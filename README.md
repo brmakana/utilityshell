@@ -11,3 +11,5 @@ A Docker image containing some useful debug/troubleshooting utilities for a shel
 - screen
 - vim
 - openssl
+- netcat
+- socat
