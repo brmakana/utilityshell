@@ -13,3 +13,5 @@ A Docker image containing some useful debug/troubleshooting utilities for a shel
 - openssl
 - netcat
 - socat
+- gron
+- jmxdump
