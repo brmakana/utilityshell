@@ -15,3 +15,5 @@ A Docker image containing some useful debug/troubleshooting utilities for a shel
 - socat
 - gron
 - jmxdump
+- kafkacat
+- kafka console tools
