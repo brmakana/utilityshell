@@ -17,3 +17,4 @@ A Docker image containing some useful debug/troubleshooting utilities for a shel
 - jmxdump
 - kafkacat
 - kafka
+- apache2-utils (apachebench etc)
