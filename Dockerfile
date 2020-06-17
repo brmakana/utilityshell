@@ -21,7 +21,8 @@ RUN apt-get update && \
                        cmake \
                        libjansson-dev \
                        zlib1g \
-                       librdkafka-dev
+                       librdkafka-dev \
+                       apache2-utils
 
 ADD https://github.com/r4um/jmx-dump/releases/download/0.9.3/jmx-dump-0.9.3-standalone.jar /usr/share/java
 ADD https://github.com/tomnomnom/gron/releases/download/v0.6.0/gron-linux-386-0.6.0.tgz /usr/share/java
