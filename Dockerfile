@@ -10,6 +10,7 @@ RUN apt-get update && \
                        dnsutils \
                        software-properties-common \
                        debconf-utils \
+                       traceroute \
                        screen \
                        vim \
                        openjdk-8-jdk \
