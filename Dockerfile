@@ -14,6 +14,7 @@ RUN apt-get update && \
                        screen \
                        vim \
                        openjdk-8-jdk \
+                       openjdk-21-jdk \
                        git \
                        telnet \
                        tcpdump \
